@@ -1,0 +1,15 @@
+Welcome to this podcast about trustworthy artificial intelligence.
+
+In this episode, we discuss why artificial intelligence systems should be lawful, ethical, and robust. Trustworthy AI means that people can understand, monitor, and rely on AI systems in a safe and responsible way.
+
+The first topic is human oversight. AI should support human decision-making, not replace human responsibility. People should remain able to review important decisions and intervene when needed.
+
+The second topic is transparency. Users should know when they are interacting with an AI system. They should also receive clear information about how the system works and what its limitations are.
+
+The third topic is privacy and data governance. AI systems often depend on large amounts of data, so it is important to protect personal information and use data responsibly.
+
+The fourth topic is fairness. AI should avoid unfair bias and should be tested to make sure it does not create harmful outcomes for individuals or groups.
+
+The final topic is accountability. Organisations using AI should document their decisions, monitor the system, and make sure there is a clear process to report and correct issues.
+
+This concludes the sample podcast transcript for the chunking lab.
